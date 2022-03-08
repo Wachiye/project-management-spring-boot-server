@@ -1,0 +1,1 @@
+web: java -jar ./project-managment-0.0.1.jar
